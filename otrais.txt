@@ -1,3 +1,7 @@
-Otrs fails iekš repo - test.
+﻿Otrs fails iekš repo - test.
 ---------------------------
 Hello
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+Hotfix izmēģinājums. 
