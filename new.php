@@ -12,6 +12,7 @@ if($c > 4){
 } else {
 	echo "loss";
 	echo "haha";
+	echo "ok";
 }
 
 
