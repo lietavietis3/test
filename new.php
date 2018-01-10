@@ -11,6 +11,7 @@ if($c > 4){
 	echo $win;
 } else {
 	echo "loss";
+	echo "haha";
 }
 
 
