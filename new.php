@@ -1,6 +1,7 @@
 <?php
 
 $a = 1;
+$d = 2;
 $b = 4;
 
 $win = "success";
