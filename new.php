@@ -11,9 +11,8 @@ if($c > 4){
 	echo $win;
 } elseif ($c == 4){
 	echo "tie";
-	echo "nu jā loģiski";
-} else {
-	echo "loss";
+}  else {
+		 echo "loss";
 }
 
 
