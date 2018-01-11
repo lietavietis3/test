@@ -9,8 +9,10 @@ $c = $a + $b;
 
 if($c > 4){
 	echo $win;
-} else {
-	echo "loss";
+} elseif ($c == 4){
+	echo "tie";
+}  else {
+		 echo "loss";
 }
 
 
